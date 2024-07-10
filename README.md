@@ -1,4 +1,4 @@
-# KamelAdjei.github.io
+# Interactive Leaf Design P5.JS
 Assignment for DAT405. Interactive design of a leaf whirlwind.
 
 Instructions to interact with the Sketch file: ENSURE CAPS LOCK IS NOT ENABLED 
